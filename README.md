@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bruno-neira/bruno-neira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I'm Bruno 👋
+
+somtimes I surf, sometimes I write, sometimes I read, sometimes I photograph, sometimes I lift heavy object,
+
+and sometimes I build.
