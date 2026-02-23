@@ -17,5 +17,5 @@ Hi there, I'm Bruno 👋
 
 Current obsessions:
 - Cold water surfing
-- Digital twins
 - History of great entrepreneurs
+- Quimbolitos
