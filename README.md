@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm Bruno 👋
 
-somtimes I surf, sometimes I write, sometimes I read, sometimes I photograph, sometimes I lift heavy objects,
-
-and sometimes I build.
+Current obsessions:
+- Cold water surfing
+- Digital twins
+- History of great entrepreneurs
