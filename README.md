@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 Hi there, I'm Bruno 👋
 
 Current obsessions:
-- Cold water surfing
 - History of great entrepreneurs
-- Quimbolitos
