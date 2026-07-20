@@ -17,5 +17,5 @@ Hi there, I'm Bruno 👋
 
 Current obsessions:
 - History of great entrepreneurs
-- A unified theory of human preference and attitudes
 - Marketplace business models, well run
+- Design thinking frameworks
