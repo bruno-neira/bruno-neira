@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 Hi there, I'm Bruno 👋
 
 Current obsessions:
-- History of great entrepreneurs
-- Marketplace business models, well run
-- Design thinking frameworks
+- Munger
