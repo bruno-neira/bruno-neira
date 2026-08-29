@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 Hi there, I'm Bruno 👋
 
 Current obsessions:
-- Munger
+- Shackleton
