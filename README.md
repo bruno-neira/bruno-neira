@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Bruno 👋
-
 Current obsessions:
 - Shackleton - just finished reading *Endurance*. Wow. What a read. Enters my pantheon.
