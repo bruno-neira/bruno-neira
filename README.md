@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 Hi there, I'm Bruno 👋
 
 Current obsessions:
-- Shackleton
+- Shackleton - just finished reading *Endurance*. Wow. What a read. Enters my pantheon.
