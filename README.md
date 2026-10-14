@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 Current obsessions:
-- Shackleton - just finished reading *Endurance*. Wow. What a read. Enters my pantheon.
+- AI safety (again)
