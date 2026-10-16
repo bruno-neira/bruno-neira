@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 Current obsessions:
-- AI safety (again)
+- Churchill and crisis leadership
